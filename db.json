@@ -1,0 +1,43 @@
+{
+    "bg": "/assets/images/bg-pokemon.png",
+    "title": "Quiz Pokémon",
+    "description": "Teste os seus conhecimentos sobre Pokémon e prove que você é um mestre Pokémon",
+    "questions": [
+      {
+        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+        "title": "Qual é o primeiro Pokémon na Pokédex?",
+        "description": "Essa é pra aquecer",
+        "answer": 3,
+        "alternatives": [
+          "Pikachu",
+          "Squirtle",
+          "Charmander",
+          "Bulbassur"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "title": "Como fazer um background gradiente com css?",
+        "description": "Faz tempo em haha",
+        "answer": 0,
+        "alternatives": [
+           "background: linear-gradient(#e66465, #9198e5);",
+           "background: gradient(#e66465, #9198e5);"
+        ]
+      }
+    ],
+    "external": [
+      ""
+    ],
+    "theme": {
+      "colors": {
+        "primary": "#3f51b5",
+        "secondary": "#ffea00",
+        "mainBg": "#171B35",
+        "contrastText": "#FFFFFF",
+        "wrong": "#f44336",
+        "success": "#4caf50"
+      },
+      "borderRadius": "4px"
+    }
+  }
