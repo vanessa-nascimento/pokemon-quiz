@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import React from 'react';	import React from 'react';
+import React from 'react';
 import db from '../db.json';
 import Widget from '../src/components/Widget';
 import QuizLogo from '../src/components/QuizLogo';
