@@ -21,6 +21,8 @@ function IndexPage() {
             <meta property="twitter:title" content="Quiz Pokémon" />
             <meta property="twitter:description" content="Teste os seus conhecimentos sobre Pokémon e prove que você é um mestre Pokémon" />
             <meta property="twitter:image" content=""></meta>
+            <link rel="preconnect" href="https://fonts.gstatic.com" />
+            <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,100&display=swap" rel="stylesheet" />
         </Head>
     </div>
   )

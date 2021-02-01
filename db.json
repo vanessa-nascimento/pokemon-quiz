@@ -1,5 +1,6 @@
 {
-    "bg": "/assets/images/bg-pokemon.png",
+    "bg": "/assets/images/bg-pokemon-quiz.png",
+    "logo": "/assets/images/logo-pokemon-quiz.png",
     "title": "Quiz Pokémon",
     "description": "Teste os seus conhecimentos sobre Pokémon e prove que você é um mestre Pokémon",
     "questions": [
